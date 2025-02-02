@@ -18,4 +18,5 @@
 
 📫 **Let's Connect:**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]([www.linkedin.com/in/jeevan-george-joseph-05a640245](https://www.linkedin.com/in/jeevan-george-joseph-05a640245/))  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([YOUR_INSTAGRAM_LINK](https://www.instagram.com/jeevan_.joseph/?next=%2F&hl=en)) 
 
