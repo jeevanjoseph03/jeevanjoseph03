@@ -3,8 +3,11 @@
 
 ### 🔥 Tech Stack  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![SQL](https://img.shields.io/badge/SQL-007ACC?style=for-the-badge&logo=mysql&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-ffcc00?style=for-the-badge&logo=sklearn&logoColor=black)  
+
 
 ### 🔥 My GitHub Activity  
 ![Jeeva's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jeevanjoseph03&theme=radical)
