@@ -11,10 +11,6 @@
 ![Jeeva's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jeevanjoseph03&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jeevanjoseph03&layout=compact&theme=radical)  
 
-### 🚀 Featured Projects  
-- **Healthcare Chatbot** 🏥 - [Repo Link](#)  
-- **AI-Powered Data Visualization Dashboard** 📊 - [Repo Link](#)  
-- **Stress Buster Game** 🎮 - [Repo Link](#)  
 
 📫 **Let's Connect:**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&borderRadius=30)](https://www.linkedin.com/in/jeevan-george-joseph-05a640245/)  
