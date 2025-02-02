@@ -8,8 +8,8 @@
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-ffcc00?style=for-the-badge&logo=sklearn&logoColor=black)  
 
 ### 📊 GitHub Stats  
-![Jeeva's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)  
+![Jeeva's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jeevanjoseph03&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jeevanjoseph03&layout=compact&theme=radical)  
 
 ### 🚀 Featured Projects  
 - **Healthcare Chatbot** 🏥 - [Repo Link](#)  
