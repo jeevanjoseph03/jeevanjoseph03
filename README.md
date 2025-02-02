@@ -1,4 +1,3 @@
-# Hey there! 👋 
 # I'm Jeevan George Joseph 
 🚀 Aspiring Data Analyst | AI & ML Enthusiast | Tech Explorer  
 
