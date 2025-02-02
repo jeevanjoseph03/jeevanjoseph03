@@ -16,5 +16,5 @@
 - **Stress Buster Game** 🎮 - [Repo Link](#)  
 
 📫 **Let's Connect:**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/jeevan-george-joseph-05a640245)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]([www.linkedin.com/in/jeevan-george-joseph-05a640245](https://www.linkedin.com/in/jeevan-george-joseph-05a640245/))  
 
