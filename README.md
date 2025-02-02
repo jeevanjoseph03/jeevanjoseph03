@@ -11,9 +11,6 @@
 
 ### 🔥 My GitHub Activity  
 ![Jeeva's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jeevanjoseph03&theme=radical)
-### 📊 GitHub Stats  
-![Jeeva's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jeevanjoseph03&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jeevanjoseph03&layout=compact&theme=radical)  
 
 
 📫 **Let's Connect:**  
