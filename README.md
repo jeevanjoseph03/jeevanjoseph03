@@ -12,6 +12,7 @@
 ### 🔥 My GitHub Activity  
 ![Jeeva's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jeevanjoseph03&theme=radical)
 
+![Profile Views](https://komarev.com/ghpvc/?username=jeevanjoseph03&color=blue)
 
 📫 **Let's Connect:**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&borderRadius=30)](https://www.linkedin.com/in/jeevan-george-joseph-05a640245/)  
