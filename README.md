@@ -8,8 +8,6 @@
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-ffcc00?style=for-the-badge&logo=sklearn&logoColor=black)  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jeevanjoseph03&layout=compact&theme=radical)
-
 
 ### 🔥 My GitHub Activity  
 ![Jeeva's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jeevanjoseph03&theme=radical)
