@@ -1,6 +1,5 @@
 # I'm Jeevan George Joseph 
 🔧 Tech-Driven | Passion-Powered | Project-Focused
-
 🚀 Aspiring Data Analyst | AI/ML Explorer | Builder of Cool, Impactful Projects
 
 ### 🔥 Tech Stack  
