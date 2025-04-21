@@ -1,19 +1,23 @@
-# I'm Jeevan George Joseph 
-🔧 Tech-Driven | Passion-Powered | Project-Focused
-|Aspiring Data Analyst | AI/ML Explorer | Builder of Cool, Impactful Projects
+Copilot said: # Jeevan George Joseph ## Co-Founder @Lunalabs |
+Jeevan George Joseph
+Co-Founder @Lunalabs | Computer Science Engineer | Generative AI Solutions
+<div align="center"> <img src="https://komarev.com/ghpvc/?username=jeevanjoseph03&color=0077B5&style=flat-square" alt="Profile Views" /> </div>
+About Me
+Building innovative solutions at the intersection of artificial intelligence and software engineering. Focused on developing generative AI applications that solve real-world problems and drive technological advancement.
 
-### 🔥 Tech Stack  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)  
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-ffcc00?style=for-the-badge&logo=sklearn&logoColor=black)  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+Technical Expertise
+<div align="center">
+Python Java C HTML React Machine Learning Data Analysis
 
+</div>
+GitHub Analytics
+<div align="center"> <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jeevanjoseph03&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true"/> <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeevanjoseph03&layout=compact&langs_count=6&theme=default&hide_border=true"/> </div> <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeevanjoseph03&theme=default&hide_border=true" alt="Contribution Streak" /> </div>
+Professional Focus
+Generative AI Systems: Developing innovative models and applications
+Data Analysis: Converting complex datasets into actionable intelligence
+Software Architecture: Designing scalable and efficient systems
+Full-Stack Development: Creating end-to-end technology solutions
+Contact Information
+LinkedIn Instagram
 
-![Profile Views](https://komarev.com/ghpvc/?username=jeevanjoseph03&color=blue)
-
-📫 **Let's Connect:**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&borderRadius=30)](https://www.linkedin.com/in/jeevan-george-joseph-05a640245/)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&borderRadius=30)](https://www.instagram.com/jeevan_.joseph/)  
-
+<div align="right"> <i>Last updated: 2025-04-21</i> </div>
