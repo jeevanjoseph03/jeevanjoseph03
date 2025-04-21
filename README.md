@@ -1,6 +1,6 @@
 # I'm Jeevan George Joseph 
 🔧 Tech-Driven | Passion-Powered | Project-Focused
-|🚀 Aspiring Data Analyst | AI/ML Explorer | Builder of Cool, Impactful Projects
+|Aspiring Data Analyst | AI/ML Explorer | Builder of Cool, Impactful Projects
 
 ### 🔥 Tech Stack  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
