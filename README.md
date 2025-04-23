@@ -64,24 +64,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeevanjoseph03&layout=compact&theme=tokyonight&hide_border=true" width="40%" alt="Top Languages" />
 </div>
 
-<!-- Projects Section -->
-## 🚀 Featured Projects
-
-<div align="center">
-  <a href="https://github.com/jeevanjoseph03/project-name">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jeevanjoseph03&repo=replace-with-your-repo-name&theme=tokyonight&hide_border=true" alt="Project Card" />
-  </a>
-  <a href="https://github.com/jeevanjoseph03/project-name">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jeevanjoseph03&repo=replace-with-your-repo-name-2&theme=tokyonight&hide_border=true" alt="Project Card" />
-  </a>
-</div>
-
-<p align="center">
-  <a href="https://github.com/jeevanjoseph03?tab=repositories">
-    <img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/>
-  </a>
-</p>
-
 <!-- Connect Section -->
 ## 🌐 Connect With Me
 
@@ -95,7 +77,7 @@
   <a href="https://portfolio-rho-gilt-38.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:jeevanjoseph1962@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
