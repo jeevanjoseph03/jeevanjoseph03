@@ -1,51 +1,119 @@
-<!-- README for Jeevan George Joseph -->
+<!-- GitHub README for Jeevan George Joseph -->
 
-<h1 align="center">Hi there 👋, I'm Jeevan George Joseph</h1>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Jeevan%20George%20Joseph&fontSize=50&fontAlignY=35&animation=fadeIn&fontColor=white" alt="header">
+</div>
+
+<h3 align="center">🔧 Tech-Driven | 💡 Passion-Powered | 🧪 Project-Focused</h3>
 <p align="center">
-  <b>🔧 Tech-Driven | 💡 Passion-Powered | 🧪 Project-Focused</b><br>
-  <i>Aspiring Data Analyst | AI/ML Explorer | Builder of Cool, Impactful Projects</i>
+  <b><i>Aspiring Data Analyst | AI/ML Explorer | Builder of Cool, Impactful Projects</i></b>
 </p>
 
----
+<!-- About Me Section -->
+## 👨‍💻 About Me
 
-### 🧠 Tech Stack
+- 🔭 I'm currently working on **AI/ML projects and data analytics**
+- 🌱 I'm learning **Advanced Machine Learning & Three.js**
+- 👯 I'm looking to collaborate on **Data Science and Web Development projects**
+- 💬 Ask me about **Python, Machine Learning, or React**
+- ⚡ Fun fact: **[Add a unique fact about yourself here]**
+
+<!-- Tech Stack Section -->
+## 🛠️ Tech Stack
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-FFCC00?style=for-the-badge&logo=scikit-learn&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Three.js-8E44AD?style=for-the-badge&logo=three.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js&logoColor=white" alt="Three.js" />
 </p>
 
----
+<details>
+  <summary>🔍 More Skills</summary>
+  <br>
+  
+  ### 📊 Data Science & ML
+  
+  <p align="left">
+    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+    <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+    <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
+    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow" />
+  </p>
+  
+  ### 🌐 Web Development
+  
+  <p align="left">
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  </p>
+  
+  ### 🛢️ Databases & Tools
+  
+  <p align="left">
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  </p>
+</details>
 
-### 🔥 GitHub Streak
+<!-- GitHub Stats Section -->
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeevanjoseph03&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jeevanjoseph03&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="Jeevan's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeevanjoseph03&layout=compact&theme=tokyonight&hide_border=true" width="40%" alt="Top Languages" />
+</div>
+
+<!-- Projects Section -->
+## 🚀 Featured Projects
+
+<div align="center">
+  <a href="https://github.com/jeevanjoseph03/project-name">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jeevanjoseph03&repo=replace-with-your-repo-name&theme=tokyonight&hide_border=true" alt="Project Card" />
+  </a>
+  <a href="https://github.com/jeevanjoseph03/project-name">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jeevanjoseph03&repo=replace-with-your-repo-name-2&theme=tokyonight&hide_border=true" alt="Project Card" />
+  </a>
+</div>
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeevanjoseph03&theme=tokyonight&hide_border=false" />
+  <a href="https://github.com/jeevanjoseph03?tab=repositories">
+    <img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/>
+  </a>
 </p>
 
+<!-- Connect Section -->
+## 🌐 Connect With Me
 
----
-
-### 🌐 Let's Connect
 <p align="center">
   <a href="https://www.linkedin.com/in/jeevan-george-joseph-05a640245/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://www.instagram.com/jeevan_.joseph/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="https://portfolio-rho-gilt-38.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
----
+<!-- Footer -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" alt="Footer" />
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=jeevanjoseph03&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+</div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jeevanjoseph03&color=blue" />
-</p>
-
-<!-- Optionally add a banner or custom SVG flair here -->
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jeevanjoseph03&bg_color=1a1b27&color=628fdb&line=38bcad&point=628fdb&area=true&hide_border=true" width="100%" alt="Activity Graph" />
