@@ -19,9 +19,7 @@
   <img src="https://img.shields.io/badge/Three.js-8E44AD?style=for-the-badge&logo=three.js&logoColor=white" />
 </p>
 
-
 ---
-
 
 ### 🔥 GitHub Streak
 <p align="center">
@@ -37,6 +35,9 @@
   </a>
   <a href="https://www.instagram.com/jeevan_.joseph/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://jeevangeorgejoseph.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
 
