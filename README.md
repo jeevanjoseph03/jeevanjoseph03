@@ -89,5 +89,4 @@
   <img src="https://komarev.com/ghpvc/?username=jeevanjoseph03&color=blueviolet&style=for-the-badge" alt="Profile Views" />
 </div>
 
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jeevanjoseph03&bg_color=1a1b27&color=628fdb&line=38bcad&point=628fdb&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+
