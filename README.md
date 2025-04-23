@@ -36,7 +36,7 @@
   <a href="https://www.instagram.com/jeevan_.joseph/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://jeevangeorgejoseph.vercel.app">
+  <a href="https://portfolio-rho-gilt-38.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
