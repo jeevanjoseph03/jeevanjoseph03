@@ -14,42 +14,33 @@
 ## 👨‍💻 About Me
 
 - 🔭 I'm currently working on **AI/ML projects and data analytics**
-- 🌱 I'm learning **Advanced Machine Learning & Three.js**
-- 👯 I'm looking to collaborate on **Data Science and Web Development projects**
-- 💬 Ask me about **Python, Machine Learning, or React**
-- ⚡ Fun fact: **[Add a unique fact about yourself here]**
+- 🌱 I'm learning **Advanced Machine Learning, Data Analytics & Three.js**
+- 👯 I'm looking to collaborate on **Data Science and AI Development projects**
+- 💬 Ask me about **Python, Machine Learning, or LLM Models**
+- ⚡ Fun fact: **I spend half my time coding, and the other half convincing my code that it’s supposed to work.** 😅
 
 <!-- Tech Stack Section -->
-## 🛠️ Tech Stack
+## 🛠️ Languages in My Toolbox
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js&logoColor=white" alt="Three.js" />
+  
+  
 </p>
 
 <details>
   <summary>🔍 More Skills</summary>
   <br>
   
-  ### 📊 Data Science & ML
-  
-  <p align="left">
-    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-    <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-    <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
-    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow" />
-  </p>
   
   ### 🌐 Web Development
   
-  <p align="left">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+ <img src="https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js&logoColor=white" alt="Three.js" />
+ <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   </p>
   
   ### 🛢️ Databases & Tools
