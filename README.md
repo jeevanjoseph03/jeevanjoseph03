@@ -23,8 +23,9 @@
 
 ### 🔥 GitHub Streak
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=jeevanjoseph03&theme=tokyonight&hide_border=false" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeevanjoseph03&theme=tokyonight&hide_border=false" />
 </p>
+
 
 ---
 
