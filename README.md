@@ -1,8 +1,9 @@
 <!-- GitHub README for Jeevan George Joseph -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f0c29,302b63,24243e&height=250&section=header&text=Jeevan%20George%20Joseph&fontSize=45&fontAlignY=40&fontColor=ffffff&animation=fadeIn&desc=Aspiring%20Data%20Analyst%20%7C%20AI%2FML%20Explorer&descSize=20&descAlign=70" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f0c29,302b63,24243e&height=250&section=header&text=Jeevan%20George%20Joseph&fontSize=50&fontAlignY=40&fontColor=ffffff&animation=fadeInDown" alt="header" />
 </div>
+
 
 <h3 align="center">🔧 Tech-Driven | 💡 Passion-Powered | 🧪 Project-Focused</h3>
 <p align="center">
