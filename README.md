@@ -30,21 +30,6 @@
 
 ---
 
-## 🚧 Featured Projects
-
-- 🔹 **Multi-Agent AI System**  
-  LLM-powered framework with autonomous email, PDF, and JSON agents + memory routing  
-  `FastAPI • SQLite • Background Tasks`
-
-- 🔹 **ELSA – AI Voice Therapist**  
-  Emotion-aware voice AI using LLaMA 3 (Groq), ElevenLabs, and NLP  
-  `Multilingual • Sentiment-Aware • Modular`
-
-- 🔹 **VigilCare** *(LUNALABS)*  
-  Real-time emergency AI system for ambulances using computer vision
-
----
-
 ## 🌐 Connect
 
 <p align="center">
