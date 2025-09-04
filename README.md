@@ -30,7 +30,7 @@
       </ul>
     </td>
     <td width="35%" align="center">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2FwY3d3aWd1emZobGRpZ3Z5M3d0Z3J4bHUxd25qMTQ0bm02czN0eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MeJmRR3gVwbvwzUbq7/giphy.gif" width="100%"/>
+      <img src="[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2FwY3d3aWd1emZobGRpZ3Z5M3d0Z3J4bHUxd25qMTQ0bm02czN0eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MeJmRR3gVwbvwzUbq7/giphy.gif](https://miro.medium.com/v2/resize:fit:640/format:webp/1*QPSlOyQ0EeJG169-JBYOUQ.gif)" width="100%"/>
     </td>
   </tr>
 </table>
