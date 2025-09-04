@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z0dGFoc2VscjFheDVld3lkaGJlZ3ZrbmJzZ3g0Mmdveml2bWM5eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpY2b/giphy.gif" width="100%"/>
-</div>
+
 
 <div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=50C878&center=true&vCenter=true&width=1000&lines=Hey%2C+I'm+Jeevan+George+Joseph!;Agentic+AI+Enthusiast;Agentic+System+Builder;Startup+Explorer" alt="Typing SVG" /></a>
