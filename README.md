@@ -1,49 +1,61 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f0c29,302b63,24243e&height=200&section=header&text=Jeevan%20George%20Joseph&fontSize=40&fontAlignY=40&fontColor=ffffff&animation=fadeInDown" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnA4ZHN5dWFqN3I2c3R2NmdqYWZ4d2J0NWhicHBscjIzeHI0a25pZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggACpCjo6iMm21/giphy.gif" width="100%"/>
 </div>
 
 <div align="center">
-  <h3>🤖 Agentic AI Enthusiast | 🛠️ System Builder | 🚀 Startup Explorer</h3>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00FF7F&center=true&vCenter=true&width=1000&lines=Hey%2C+I'm+Jeevan+George+Joseph!;I'm+an+Agentic+AI+Enthusiast;I'm+a+System+Builder+%26+Startup+Explorer" alt="Typing SVG" /></a>
 </div>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/jeevan-george-joseph-05a640245/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:jeevanjoseph1962@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://jeevanjoseph03.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" /></a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jeevanjoseph03&color=blueviolet&style=flat-square" />
+  <a href="https://www.linkedin.com/in/jeevan-george-joseph-05a640245/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:jeevanjoseph1962@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://jeevanjoseph03.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=jeevanjoseph03&color=00FF7F&style=for-the-badge" />
 </p>
 
 ---
 
-### 👋 **Hello there! I'm Jeevan.**
-
-I'm passionate about building intelligent systems that can operate at scale. My journey has taken me deep into the world of **Agentic AI**, **Large Language Models**, and **Multi-Agent Systems**. As the Co-Founder of **LUNALABS** (recognized in the Top 100 at the Indian Startup League), I thrive on turning complex ideas into impactful, real-world AI applications.
+<table width="100%">
+  <tr>
+    <td width="65%">
+      <h3 align="left"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" /> About Me</h3>
+      <p>
+        Always hacking at the edge of intelligence, systems, and scale. My core passion lies in building real-world AI systems and exploring the frontiers of agentic AI and multi-agent systems.
+      </p>
+      <ul>
+        <li>🧠 Exploring <b>Agentic AI, LLMs</b>, and <b>Multi-Agent Systems</b>.</li>
+        <li>🛠️ Building robust AI systems with <b>FastAPI, Langchain & Groq</b>.</li>
+        <li>🚀 Co-Founder @ <b>LUNALABS</b> — proud to be in the Top 100 @ Indian Startup League!</li>
+      </ul>
+    </td>
+    <td width="35%" align="center">
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2FwY3d3aWd1emZobGRpZ3Z5M3d0Z3J4bHUxd25qMTQ0bm02czN0eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MeJmRR3gVwbvwzUbq7/giphy.gif" width="100%"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Light%20Bulb.png" alt="Light Bulb" width="25" height="25" /> What I'm Currently Working On
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High-Speed%20Train.png" alt="High-Speed Train" width="25" height="25" /> Current Missions
 
 <div align="center">
 
-| Project Focus             | Description                                   |
+| Project Focus             | Status & Goal                                   |
 | ------------------------- | --------------------------------------------- |
-| 🧠 **Multi-Agent AI System** | Designing a complex, scalable multi-agent framework. |
-| 🗣️ **ELSA (Voice Therapist)** | Developing an AI-powered voice therapy assistant.  |
+| 🤖 **Multi-Agent AI System** | `[In Development]` - Architecting a scalable multi-agent framework. |
+| 🗣️ **ELSA (Voice Therapist)** | `[Prototyping]` - Building an innovative voice therapy assistant.  |
 
 </div>
 
 ---
 
-### 🛠️ **My Core Tech Stack**
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Gear" width="25" height="25" /> Tech Arsenal
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Langchain-black?style=flat-square" />
-  <img src="https://img.shields.io/badge/LLMs-blueviolet?style=flat-square" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Groq-black?style=flat-square" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Langchain-101010?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LLMs-4A25E1?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Groq-00FF7F?style=for-the-badge" />
 </p>
