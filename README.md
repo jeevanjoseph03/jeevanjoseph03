@@ -1,5 +1,5 @@
 <div align="center">
-  ![Image](https://github.com/user-attachments/assets/3d9493df-81a3-4d1a-9405-060f25b46e6d)
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z0dGFoc2VscjFheDVld3lkaGJlZ3ZrbmJzZ3g0Mmdveml2bWM5eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpY2b/giphy.gif" width="100%"/>
 </div>
 
 <div align="center">
@@ -29,7 +29,7 @@
       </ul>
     </td>
     <td width="35%" align="center">
-      <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnVta3AxOTBneWUxdTd5NDMyMjAyanc3cTZrZ3BqeW50aTlrYnFleiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TN4844Dbf0AfXrAp05/giphy.gif" alt="Mr Robot typing GIF" width="100%"/>
+      <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Mr Robot typing GIF" width="100%"/>
     </td>
   </tr>
 </table>
