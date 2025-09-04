@@ -1,16 +1,16 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnA4ZHN5dWFqN3I2c3R2NmdqYWZ4d2J0NWhicHBscjIzeHI0a25pZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggACpCjo6iMm21/giphy.gif" width="100%"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z0dGFoc2VscjFheDVld3lkaGJlZ3ZrbmJzZ3g0Mmdveml2bWM5eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpY2b/giphy.gif" width="100%"/>
 </div>
 
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00FF7F&center=true&vCenter=true&width=1000&lines=Hey%2C+I'm+Jeevan+George+Joseph!;I'm+an+Agentic+AI+Enthusiast;I'm+a+System+Builder+%26+Startup+Explorer" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=50C878&center=true&vCenter=true&width=1000&lines=Hey%2C+I'm+Jeevan+George+Joseph!;Agentic+AI+Enthusiast;Agentic+System+Builder;Startup+Explorer" alt="Typing SVG" /></a>
 </div>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jeevan-george-joseph-05a640245/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:jeevanjoseph1962@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://jeevanjoseph03.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=jeevanjoseph03&color=00FF7F&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=jeevanjoseph03&color=50C878&style=for-the-badge" />
 </p>
 
 ---
@@ -57,5 +57,5 @@
   <img src="https://img.shields.io/badge/Langchain-101010?style=for-the-badge" />
   <img src="https://img.shields.io/badge/LLMs-4A25E1?style=for-the-badge" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Groq-00FF7F?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Groq-50C878?style=for-the-badge" />
 </p>
