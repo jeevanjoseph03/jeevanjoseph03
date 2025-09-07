@@ -18,7 +18,7 @@
     <td width="65%">
       <h3 align="left"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" /> About Me</h3>
       <p>
-        Computer science engineer passionate about multi-agent AI and LLM applications. Always learning and building real products.
+        Computer science engineer passionate about multi-agent AI and LLM applications. Always learning and building real world products.
       </p>
       <ul>
         <li>🧠 Exploring <b>Agentic AI, LLMs</b>, and <b>Multi-Agent Systems</b>.</li>
