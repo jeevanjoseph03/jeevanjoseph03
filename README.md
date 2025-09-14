@@ -1,7 +1,7 @@
 
 
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=50C878&center=true&vCenter=true&width=1000&lines=Hey%2C+I'm+Jeevan+George+Joseph!;Agentic+AI+Enthusiast;Agentic+Systems+Builder;Startup+Founder" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=50C878&center=true&vCenter=true&width=1000&lines=Hey%2C+I'm+Jeevan+George+Joseph!;Agentic+Systems+Builder;Startup+Founder" alt="Typing SVG" /></a>
 </div>
 
 <p align="center">
