@@ -23,7 +23,7 @@
       <ul>
         <li>🧠 Exploring <b>Agentic AI, LLMs</b>, and <b>Multi-Agent Systems</b>.</li>
         <li>🛠️ Building robust AI systems with <b>FastAPI, Langchain & Groq</b>.</li>
-        <li>🚀 Co-Founder @ <b>LUNALABS</b> — proud to be in the Top 100 @ Indian Startup League!</li>
+        <li>🚀 Co-Founded @ <b>LUNALABS</b> — proud to be in the Top 100 @ Indian Startup League!</li>
       </ul>
     </td>
     <td width="35%" align="center">
