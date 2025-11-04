@@ -34,18 +34,6 @@
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High-Speed%20Train.png" alt="High-Speed Train" width="25" height="25" /> Current Missions
-
-<div align="center">
-
-| Project Focus             | Status & Goal                                   |
-| ------------------------- | --------------------------------------------- |
-| 🤖 **Multi-Agent AI System** | `[In Development]` - Architecting a scalable multi-agent framework. |
-| 🗣️ **ELSA (Voice Therapist)** | `[Prototyping]` - Building an innovative voice therapy assistant.  |
-
-</div>
-
----
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Gear" width="25" height="25" /> Tech Arsenal
 
