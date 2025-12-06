@@ -14,7 +14,7 @@
     <a href="https://jeevanjoseph03.vercel.app/">
       <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=FFD700&labelColor=1a1a1a" />
     </a>
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjeevanjoseph03%2Fjeevanjoseph03&count_bg=%23000000&title_bg=%231A1A1A&icon=github.svg&icon_color=%23FFD700&title=VISITORS&edge_flat=false" />
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjeevanjoseph03&count_bg=%23000000&title_bg=%231A1A1A&title=VISITORS" />
   </p>
 
 </div>
@@ -52,9 +52,9 @@
 <p align="center">
   <!-- AI & Agent Frameworks (accented) -->
   <img src="https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=FFD700&labelColor=1a1a1a" />
-  <img src="https://img.shields.io/badge/Gemini-000000?style=for-the-badge&labelColor=1a1a1a&logo=data:image/svg+xml;utf8,%3Csvg%20viewBox%3D%270%200%2016%2016%27%20xmlns%3D%27http%3A//www.w3.org/2000/svg%27%3E%3Cpath%20fill%3D%27%23FFD700%27%20d%3D%27M8%200c2.5%201.8%204.5%204.1%206%206.8-1.5%202.7-3.5%205-6%206.8C5.5%2012.3%203.5%2010%202%207.2%203.5%204.5%205.5%202.3%208%200Z%27/%3E%3C/svg%3E" />
+  <img src="https://img.shields.io/badge/Gemini-000000?style=for-the-badge&labelColor=1a1a1a&logoColor=FFD700" />
   <img src="https://img.shields.io/badge/HuggingFace-000000?style=for-the-badge&logo=huggingface&logoColor=FFD700&labelColor=1a1a1a" />
-  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&labelColor=1a1a1a&logo=data:image/svg+xml;utf8,%3Csvg%20viewBox%3D%270%200%2016%2016%27%20xmlns%3D%27http%3A//www.w3.org/2000/svg%27%3E%3Cpath%20fill%3D%27%23FFD700%27%20d%3D%27M2%204l4-2%202%202%202-2%204%202-1%203-3%201-2%203-2-3-3-1Z%27/%3E%3C/svg%3E" />
+  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&labelColor=1a1a1a&logoColor=FFD700" />
 
   <!-- Core Language & Backend -->
   <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=FFD700&labelColor=1a1a1a" />
