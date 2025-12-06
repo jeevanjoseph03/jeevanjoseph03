@@ -66,7 +66,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="55" height="55" />
   <img src="https://avatars.githubusercontent.com/u/119868362?s=200&v=4" alt="Langchain" width="55" height="55" />
   <img src="https://avatars.githubusercontent.com/u/170677839?s=200&v=4" alt="CrewAI" width="55" height="55" />
-  <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" alt="BeeAI" width="55" height="55" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="55" height="55" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="55" height="55" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="55" height="55" />
