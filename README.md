@@ -91,7 +91,6 @@
 ```python
 class JeevanJoseph:
     def __init__(self):
-        self.alias = "The Dark Knight of Code"
         self.role = "Agentic Systems Architect"
         self.company = "LUNALABS"
         self.location = "Gotham (India)"
