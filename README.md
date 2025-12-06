@@ -14,7 +14,7 @@
     <a href="https://jeevanjoseph03.vercel.app/">
       <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=FFD700&labelColor=1a1a1a" />
     </a>
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjeevanjoseph03&count_bg=%23000000&title_bg=%231A1A1A&title=VISITORS" />
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjeevanjoseph03%2Fjeevanjoseph03&count_bg=%23000000&title_bg=%231A1A1A&title=VISITORS&edge_flat=true" />
   </p>
 
 </div>
