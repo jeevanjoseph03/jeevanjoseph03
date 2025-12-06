@@ -52,9 +52,9 @@
 <p align="center">
   <!-- AI & Agent Frameworks -->
   <img src="https://img.shields.io/badge/OpenAI-FFD700?style=for-the-badge&logo=openai&logoColor=FFD700&labelColor=000000" />
-  <img src="https://img.shields.io/badge/Gemini-FFD700?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Gemini-FFD700?style=for-the-badge&labelColor=000000&logo=data:image/svg+xml;utf8,%3Csvg%20viewBox%3D%270%200%2016%2016%27%20xmlns%3D%27http%3A//www.w3.org/2000/svg%27%3E%3Cpath%20fill%3D%27%23FFD700%27%20d%3D%27M8%200c2.5%201.8%204.5%204.1%206%206.8-1.5%202.7-3.5%205-6%206.8C5.5%2012.3%203.5%2010%202%207.2%203.5%204.5%205.5%202.3%208%200Z%27/%3E%3C/svg%3E" />
   <img src="https://img.shields.io/badge/HuggingFace-FFD700?style=for-the-badge&logo=huggingface&logoColor=000000&labelColor=000000" />
-  <img src="https://img.shields.io/badge/LangChain-FFD700?style=for-the-badge&logoColor=000000&labelColor=000000" />
+  <img src="https://img.shields.io/badge/LangChain-FFD700?style=for-the-badge&labelColor=000000&logo=data:image/svg+xml;utf8,%3Csvg%20viewBox%3D%270%200%2016%2016%27%20xmlns%3D%27http%3A//www.w3.org/2000/svg%27%3E%3Cpath%20fill%3D%27%23FFD700%27%20d%3D%27M2%204l4-2%202%202%202-2%204%202-1%203-3%201-2%203-2-3-3-1Z%27/%3E%3C/svg%3E" />
 
   <!-- Core Language & Backend -->
   <img src="https://img.shields.io/badge/Python-FFD700?style=for-the-badge&logo=python&logoColor=FFD700&labelColor=000000" />
@@ -77,7 +77,7 @@
   <img src="https://img.shields.io/badge/Vercel-FFD700?style=for-the-badge&logo=vercel&logoColor=000000&labelColor=000000" />
   <img src="https://img.shields.io/badge/Google%20Cloud-FFD700?style=for-the-badge&logo=googlecloud&logoColor=FFD700&labelColor=000000" />
   <img src="https://img.shields.io/badge/GitHub-FFD700?style=for-the-badge&logo=github&logoColor=FFD700&labelColor=000000" />
-  <img src="https://img.shields.io/badge/VS%20Code-FFD700?style=for-the-badge&logo=visualstudiocode&logoColor=FFD700&labelColor=000000" />
+  <img src="https://img.shields.io/badge/VS%20Code-FFD700?style=for-the-badge&logo=visualstudiocode&logoColor=000000&labelColor=FFD700" />
 
   <!-- Additional Language -->
   <img src="https://img.shields.io/badge/Java-FFD700?style=for-the-badge&logo=openjdk&logoColor=FFD700&labelColor=000000" />
