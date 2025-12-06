@@ -25,7 +25,7 @@
   
   ## 🦇 WHO AM I? 
   
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cc/Batman_logo.svg" width="200" alt="Batman Logo">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b3/Batman1989_Logo.png" width="200" alt="Batman Logo">
 
 </div>
 
