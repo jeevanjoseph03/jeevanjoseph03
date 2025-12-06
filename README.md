@@ -52,7 +52,7 @@
 <p align="center">
   <!-- AI & Agent Frameworks -->
   <img src="https://img.shields.io/badge/OpenAI-FFD700?style=for-the-badge&logo=openai&logoColor=FFD700&labelColor=000000" />
-  <img src="https://img.shields.io/badge/Gemini-FFD700?style=for-the-badge&logo=google&logoColor=FFD700&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Gemini-FFD700?style=for-the-badge&labelColor=000000" />
   <img src="https://img.shields.io/badge/HuggingFace-FFD700?style=for-the-badge&logo=huggingface&logoColor=000000&labelColor=000000" />
   <img src="https://img.shields.io/badge/LangChain-FFD700?style=for-the-badge&logoColor=000000&labelColor=000000" />
 
@@ -80,7 +80,7 @@
   <img src="https://img.shields.io/badge/VS%20Code-FFD700?style=for-the-badge&logo=visualstudiocode&logoColor=FFD700&labelColor=000000" />
 
   <!-- Additional Language -->
-  <img src="https://img.shields.io/badge/Java-FFD700?style=for-the-badge&logo=java&logoColor=FFD700&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Java-FFD700?style=for-the-badge&logo=openjdk&logoColor=FFD700&labelColor=000000" />
 </p>
 
 </div>
