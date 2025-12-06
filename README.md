@@ -2,24 +2,24 @@
   
   ![Batman Header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1a1a,100:000000&height=300&section=header&text=JEEVAN%20GEORGE%20JOSEPH&fontSize=50&fontColor=FFD700&animation=fadeIn&fontAlignY=38&desc=Agentic%20Systems%20Builder%20|%20Startup%20Founder&descAlignY=55&descSize=20)
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=The+Dark+Knight+of+Code;Building+AI+Agents+in+the+Shadows;Architecting+Multi-Agent+Systems;Founder+%40+LUNALABS" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=cccccc&center=true&vCenter=true&width=600&lines=The+Dark+Knight+of+Code;Building+AI+Agents+in+the+Shadows;Architecting+Multi-Agent+Systems;Founder+%40+LUNALABS" alt="Typing SVG" />
 
   <p align="center">
     <a href="https://www.linkedin.com/in/jeevan-george-joseph-05a640245/">
-      <img src="https://img.shields.io/badge/LinkedIn-FFD700?style=for-the-badge&logo=linkedin&logoColor=000000&labelColor=000000" />
+      <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FFD700&labelColor=1a1a1a" />
     </a>
     <a href="mailto:jeevanjoseph.work@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-FFD700?style=for-the-badge&logo=gmail&logoColor=000000&labelColor=000000" />
+      <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=FFD700&labelColor=1a1a1a" />
     </a>
     <a href="https://jeevanjoseph03.vercel.app/">
-      <img src="https://img.shields.io/badge/Portfolio-FFD700?style=for-the-badge&logo=vercel&logoColor=000000&labelColor=000000" />
+      <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=FFD700&labelColor=1a1a1a" />
     </a>
     <img src="https://komarev.com/ghpvc/?username=jeevanjoseph03&color=FFD700&style=for-the-badge&label=VISITORS" />
   </p>
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- separator trimmed for minimal look -->
 
 <div align="center">
   
@@ -43,49 +43,49 @@
 
 <br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- separator trimmed for minimal look -->
 
 <div align="center">
 
 ## ⚡ THE ARSENAL
 
 <p align="center">
-  <!-- AI & Agent Frameworks -->
-  <img src="https://img.shields.io/badge/OpenAI-FFD700?style=for-the-badge&logo=openai&logoColor=FFD700&labelColor=000000" />
-  <img src="https://img.shields.io/badge/Gemini-FFD700?style=for-the-badge&labelColor=000000&logo=data:image/svg+xml;utf8,%3Csvg%20viewBox%3D%270%200%2016%2016%27%20xmlns%3D%27http%3A//www.w3.org/2000/svg%27%3E%3Cpath%20fill%3D%27%23FFD700%27%20d%3D%27M8%200c2.5%201.8%204.5%204.1%206%206.8-1.5%202.7-3.5%205-6%206.8C5.5%2012.3%203.5%2010%202%207.2%203.5%204.5%205.5%202.3%208%200Z%27/%3E%3C/svg%3E" />
-  <img src="https://img.shields.io/badge/HuggingFace-FFD700?style=for-the-badge&logo=huggingface&logoColor=000000&labelColor=000000" />
-  <img src="https://img.shields.io/badge/LangChain-FFD700?style=for-the-badge&labelColor=000000&logo=data:image/svg+xml;utf8,%3Csvg%20viewBox%3D%270%200%2016%2016%27%20xmlns%3D%27http%3A//www.w3.org/2000/svg%27%3E%3Cpath%20fill%3D%27%23FFD700%27%20d%3D%27M2%204l4-2%202%202%202-2%204%202-1%203-3%201-2%203-2-3-3-1Z%27/%3E%3C/svg%3E" />
+  <!-- AI & Agent Frameworks (accented) -->
+  <img src="https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=FFD700&labelColor=1a1a1a" />
+  <img src="https://img.shields.io/badge/Gemini-000000?style=for-the-badge&labelColor=1a1a1a&logo=data:image/svg+xml;utf8,%3Csvg%20viewBox%3D%270%200%2016%2016%27%20xmlns%3D%27http%3A//www.w3.org/2000/svg%27%3E%3Cpath%20fill%3D%27%23FFD700%27%20d%3D%27M8%200c2.5%201.8%204.5%204.1%206%206.8-1.5%202.7-3.5%205-6%206.8C5.5%2012.3%203.5%2010%202%207.2%203.5%204.5%205.5%202.3%208%200Z%27/%3E%3C/svg%3E" />
+  <img src="https://img.shields.io/badge/HuggingFace-000000?style=for-the-badge&logo=huggingface&logoColor=FFD700&labelColor=1a1a1a" />
+  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&labelColor=1a1a1a&logo=data:image/svg+xml;utf8,%3Csvg%20viewBox%3D%270%200%2016%2016%27%20xmlns%3D%27http%3A//www.w3.org/2000/svg%27%3E%3Cpath%20fill%3D%27%23FFD700%27%20d%3D%27M2%204l4-2%202%202%202-2%204%202-1%203-3%201-2%203-2-3-3-1Z%27/%3E%3C/svg%3E" />
 
   <!-- Core Language & Backend -->
-  <img src="https://img.shields.io/badge/Python-FFD700?style=for-the-badge&logo=python&logoColor=FFD700&labelColor=000000" />
-  <img src="https://img.shields.io/badge/FastAPI-FFD700?style=for-the-badge&logo=fastapi&logoColor=FFD700&labelColor=000000" />
-  <img src="https://img.shields.io/badge/Node.js-FFD700?style=for-the-badge&logo=node.js&logoColor=FFD700&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=FFD700&labelColor=1a1a1a" />
+  <img src="https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=FFD700&labelColor=1a1a1a" />
+  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=FFD700&labelColor=1a1a1a" />
 
   <!-- Frontend & Apps for AI UIs -->
-  <img src="https://img.shields.io/badge/Streamlit-FFD700?style=for-the-badge&logo=streamlit&logoColor=FFD700&labelColor=000000" />
-  <img src="https://img.shields.io/badge/React-FFD700?style=for-the-badge&logo=react&logoColor=FFD700&labelColor=000000" />
-  <img src="https://img.shields.io/badge/Tailwind-FFD700?style=for-the-badge&logo=tailwindcss&logoColor=FFD700&labelColor=000000" />
-  <img src="https://img.shields.io/badge/JavaScript-FFD700?style=for-the-badge&logo=javascript&logoColor=FFD700&labelColor=000000" />
-  <img src="https://img.shields.io/badge/TypeScript-FFD700?style=for-the-badge&logo=typescript&logoColor=FFD700&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Streamlit-000000?style=for-the-badge&logo=streamlit&logoColor=FFD700&labelColor=1a1a1a" />
+  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=FFD700&labelColor=1a1a1a" />
+  <img src="https://img.shields.io/badge/Tailwind-000000?style=for-the-badge&logo=tailwindcss&logoColor=FFD700&labelColor=1a1a1a" />
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=FFD700&labelColor=1a1a1a" />
+  <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=FFD700&labelColor=1a1a1a" />
 
   <!-- Data & Storage -->
-  <img src="https://img.shields.io/badge/PostgreSQL-FFD700?style=for-the-badge&logo=postgresql&logoColor=FFD700&labelColor=000000" />
-  <img src="https://img.shields.io/badge/MongoDB-FFD700?style=for-the-badge&logo=mongodb&logoColor=FFD700&labelColor=000000" />
+  <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=FFD700&labelColor=1a1a1a" />
+  <img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=FFD700&labelColor=1a1a1a" />
 
   <!-- DevOps & Platform -->
-  <img src="https://img.shields.io/badge/Docker-FFD700?style=for-the-badge&logo=docker&logoColor=FFD700&labelColor=000000" />
-  <img src="https://img.shields.io/badge/Vercel-FFD700?style=for-the-badge&logo=vercel&logoColor=000000&labelColor=000000" />
-  <img src="https://img.shields.io/badge/Google%20Cloud-FFD700?style=for-the-badge&logo=googlecloud&logoColor=FFD700&labelColor=000000" />
-  <img src="https://img.shields.io/badge/GitHub-FFD700?style=for-the-badge&logo=github&logoColor=FFD700&labelColor=000000" />
-  <img src="https://img.shields.io/badge/VS%20Code-FFD700?style=for-the-badge&logo=visualstudiocode&logoColor=000000&labelColor=FFD700" />
+  <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=FFD700&labelColor=1a1a1a" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=FFD700&labelColor=1a1a1a" />
+  <img src="https://img.shields.io/badge/Google%20Cloud-000000?style=for-the-badge&logo=googlecloud&logoColor=FFD700&labelColor=1a1a1a" />
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FFD700&labelColor=1a1a1a" />
+  <img src="https://img.shields.io/badge/VS%20Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=FFD700&labelColor=1a1a1a" />
 
   <!-- Additional Language -->
-  <img src="https://img.shields.io/badge/Java-FFD700?style=for-the-badge&logo=openjdk&logoColor=FFD700&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=FFD700&labelColor=1a1a1a" />
 </p>
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- separator trimmed for minimal look -->
 
 <div align="center">
 
