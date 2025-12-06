@@ -50,28 +50,25 @@
 ## ⚡ THE ARSENAL
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="55" height="55" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="55" height="55" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="55" height="55" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="55" height="55" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="55" height="55" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="55" height="55" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="55" height="55" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="55" height="55" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" style="background-color: white; border-radius: 50%;" alt="Next.js" width="55" height="55" />
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind" width="55" height="55" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="55" height="55" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="55" height="55" />
-  <img src="https://avatars.githubusercontent.com/u/119868362?s=200&v=4" alt="Langchain" width="55" height="55" />
-  <img src="https://avatars.githubusercontent.com/u/170677839?s=200&v=4" alt="CrewAI" width="55" height="55" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="55" height="55" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="55" height="55" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="55" height="55" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="55" height="55" />
-  <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="GitHub" width="55" height="55" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" alt="OpenAI" width="55" height="55" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Google_Gemini_logo.svg" alt="Gemini" width="55" height="55" />
-  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="HuggingFace" width="55" height="55" />
+  <img src="https://img.shields.io/badge/Python-FFD700?style=for-the-badge&logo=python&logoColor=FFD700&labelColor=000000" />
+  <img src="https://img.shields.io/badge/JavaScript-FFD700?style=for-the-badge&logo=javascript&logoColor=FFD700&labelColor=000000" />
+  <img src="https://img.shields.io/badge/TypeScript-FFD700?style=for-the-badge&logo=typescript&logoColor=FFD700&labelColor=000000" />
+  <img src="https://img.shields.io/badge/React-FFD700?style=for-the-badge&logo=react&logoColor=FFD700&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Next.js-FFD700?style=for-the-badge&logo=next.js&logoColor=000000&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Tailwind-FFD700?style=for-the-badge&logo=tailwindcss&logoColor=FFD700&labelColor=000000" />
+  <img src="https://img.shields.io/badge/FastAPI-FFD700?style=for-the-badge&logo=fastapi&logoColor=FFD700&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Node.js-FFD700?style=for-the-badge&logo=node.js&logoColor=FFD700&labelColor=000000" />
+  <img src="https://img.shields.io/badge/LangChain-FFD700?style=for-the-badge&logoColor=000000&labelColor=000000" />
+  <img src="https://img.shields.io/badge/CrewAI-FFD700?style=for-the-badge&logoColor=000000&labelColor=000000" />
+  <img src="https://img.shields.io/badge/PostgreSQL-FFD700?style=for-the-badge&logo=postgresql&logoColor=FFD700&labelColor=000000" />
+  <img src="https://img.shields.io/badge/MongoDB-FFD700?style=for-the-badge&logo=mongodb&logoColor=FFD700&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Docker-FFD700?style=for-the-badge&logo=docker&logoColor=FFD700&labelColor=000000" />
+  <img src="https://img.shields.io/badge/GitHub-FFD700?style=for-the-badge&logo=github&logoColor=FFD700&labelColor=000000" />
+  <img src="https://img.shields.io/badge/OpenAI-FFD700?style=for-the-badge&logo=openai&logoColor=FFD700&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Gemini-FFD700?style=for-the-badge&logo=google&logoColor=FFD700&labelColor=000000" />
+  <img src="https://img.shields.io/badge/HuggingFace-FFD700?style=for-the-badge&logo=huggingface&logoColor=000000&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Vercel-FFD700?style=for-the-badge&logo=vercel&logoColor=000000&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Groq-FFD700?style=for-the-badge&logoColor=000000&labelColor=000000" />
 </p>
 
 </div>
