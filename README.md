@@ -54,12 +54,10 @@
   <img src="https://img.shields.io/badge/JavaScript-FFD700?style=for-the-badge&logo=javascript&logoColor=FFD700&labelColor=000000" />
   <img src="https://img.shields.io/badge/TypeScript-FFD700?style=for-the-badge&logo=typescript&logoColor=FFD700&labelColor=000000" />
   <img src="https://img.shields.io/badge/React-FFD700?style=for-the-badge&logo=react&logoColor=FFD700&labelColor=000000" />
-  <img src="https://img.shields.io/badge/Next.js-FFD700?style=for-the-badge&logo=next.js&logoColor=000000&labelColor=000000" />
   <img src="https://img.shields.io/badge/Tailwind-FFD700?style=for-the-badge&logo=tailwindcss&logoColor=FFD700&labelColor=000000" />
   <img src="https://img.shields.io/badge/FastAPI-FFD700?style=for-the-badge&logo=fastapi&logoColor=FFD700&labelColor=000000" />
   <img src="https://img.shields.io/badge/Node.js-FFD700?style=for-the-badge&logo=node.js&logoColor=FFD700&labelColor=000000" />
   <img src="https://img.shields.io/badge/LangChain-FFD700?style=for-the-badge&logoColor=000000&labelColor=000000" />
-  <img src="https://img.shields.io/badge/CrewAI-FFD700?style=for-the-badge&logoColor=000000&labelColor=000000" />
   <img src="https://img.shields.io/badge/PostgreSQL-FFD700?style=for-the-badge&logo=postgresql&logoColor=FFD700&labelColor=000000" />
   <img src="https://img.shields.io/badge/MongoDB-FFD700?style=for-the-badge&logo=mongodb&logoColor=FFD700&labelColor=000000" />
   <img src="https://img.shields.io/badge/Docker-FFD700?style=for-the-badge&logo=docker&logoColor=FFD700&labelColor=000000" />
@@ -68,7 +66,9 @@
   <img src="https://img.shields.io/badge/Gemini-FFD700?style=for-the-badge&logo=google&logoColor=FFD700&labelColor=000000" />
   <img src="https://img.shields.io/badge/HuggingFace-FFD700?style=for-the-badge&logo=huggingface&logoColor=000000&labelColor=000000" />
   <img src="https://img.shields.io/badge/Vercel-FFD700?style=for-the-badge&logo=vercel&logoColor=000000&labelColor=000000" />
-  <img src="https://img.shields.io/badge/Groq-FFD700?style=for-the-badge&logoColor=000000&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Java-FFD700?style=for-the-badge&logo=java&logoColor=FFD700&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Google%20Cloud-FFD700?style=for-the-badge&logo=googlecloud&logoColor=FFD700&labelColor=000000" />
+  <img src="https://img.shields.io/badge/VS%20Code-FFD700?style=for-the-badge&logo=visualstudiocode&logoColor=FFD700&labelColor=000000" />
 </p>
 
 </div>
