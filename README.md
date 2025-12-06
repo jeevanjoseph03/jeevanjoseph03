@@ -6,10 +6,10 @@
 
   <p align="center">
     <a href="https://www.linkedin.com/in/jeevan-george-joseph-05a640245/">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFD700&labelColor=000000&borderColor=FFD700" />
+      <img src="https://img.shields.io/badge/LinkedIn-FFD700?style=for-the-badge&logo=linkedin&logoColor=000000&labelColor=000000" />
     </a>
     <a href="mailto:jeevanjoseph.work@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=FFD700&labelColor=000000" />
+      <img src="https://img.shields.io/badge/Gmail-FFD700?style=for-the-badge&logo=gmail&logoColor=000000&labelColor=000000" />
     </a>
     <a href="https://jeevanjoseph03.vercel.app/">
       <img src="https://img.shields.io/badge/Portfolio-FFD700?style=for-the-badge&logo=vercel&logoColor=000000&labelColor=000000" />
