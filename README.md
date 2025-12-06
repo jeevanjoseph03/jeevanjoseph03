@@ -63,12 +63,10 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" style="background-color: white; border-radius: 50%;" alt="Next.js" width="55" height="55" />
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind" width="55" height="55" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="55" height="55" />
-  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="55" height="55" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="55" height="55" />
   <img src="https://avatars.githubusercontent.com/u/119868362?s=200&v=4" alt="Langchain" width="55" height="55" />
   <img src="https://avatars.githubusercontent.com/u/170677839?s=200&v=4" alt="CrewAI" width="55" height="55" />
   <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" alt="BeeAI" width="55" height="55" />
-  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="55" height="55" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="55" height="55" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="55" height="55" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="55" height="55" />
@@ -76,7 +74,6 @@
   <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="GitHub" width="55" height="55" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" alt="OpenAI" width="55" height="55" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Google_Gemini_logo.svg" alt="Gemini" width="55" height="55" />
-  <img src="https://avatars.githubusercontent.com/u/121458692?s=200&v=4" alt="Groq" width="55" height="55" />
   <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="HuggingFace" width="55" height="55" />
 </p>
 
