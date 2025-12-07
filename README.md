@@ -110,7 +110,7 @@ class JeevanJoseph:
     def tech_stack(self):
         return {
             "backend": ["Python", "FastAPI", "Node.js"],
-            "ai_ml": ["Langchain", "Groq", "OpenAI", "HuggingFace"],
+            "ai_ml": ["Langchain", "OpenAI", "HuggingFace"],
             "frontend": ["React", "Next.js", "TypeScript"],
             "databases": ["PostgreSQL", "MongoDB"],
             "tools": ["Docker", "Git", "Cursor AI", "Vercel"]
