@@ -11,7 +11,7 @@
     <a href="mailto:jeevanjoseph.work@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=FFD700&labelColor=1a1a1a" />
     </a>
-    <a href="https://jeevanjoseph03.vercel.app/">
+    <a href="https://jeevanjoseph.dev/">
       <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=FFD700&labelColor=1a1a1a" />
     </a>
     <img src="https://hits.sh/github.com/jeevanjoseph03/jeevanjoseph03.svg?style=for-the-badge&label=VISITORS&extraCount=1342&color=000000&labelColor=1a1a1a&logo=github&logoColor=FFD700" />
