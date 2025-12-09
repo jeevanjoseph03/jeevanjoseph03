@@ -50,7 +50,7 @@
 ## ⚡ THE ARSENAL
 
 <p align="center">
-  <img src="https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=FFD700&labelColor=1a1a1a" />
+  <img src="https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=FFD700&labelColor=1b1b1b" />
   <img src="https://img.shields.io/badge/Gemini-000000?style=for-the-badge&logo=googlegemini&logoColor=FFD700&labelColor=1a1a1a" />
   <img src="https://img.shields.io/badge/HuggingFace-000000?style=for-the-badge&logo=huggingface&logoColor=FFD700&labelColor=1a1a1a" />
   <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=FFD700&labelColor=1a1a1a" />
@@ -74,11 +74,10 @@
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=FFD700&labelColor=1a1a1a" />
   <img src="https://img.shields.io/badge/Google%20Cloud-000000?style=for-the-badge&logo=googlecloud&logoColor=FFD700&labelColor=1a1a1a" />
   <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FFD700&labelColor=1a1a1a" />
-  <img src="https://img.shields.io/badge/VS%20Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=FFD700&labelColor=1a1a1a" />
+  <img src="https://img.shields.io/badge/VS%20Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=FFD700&labelColor=1b1b1b" />
 
   <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=FFD700&labelColor=1a1a1a" />
 </p>
-
 </div>
 
 <!-- separator trimmed for minimal look -->
