@@ -49,8 +49,6 @@
 
 ## ⚡ THE ARSENAL
 
-## ⚡ THE ARSENAL
-
 <p align="center">
   <img src="https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=FFD700&labelColor=1a1a1a" />
   <img src="https://img.shields.io/badge/Gemini-000000?style=for-the-badge&labelColor=1a1a1a&logoColor=FFD700&logo=googlebard" />
