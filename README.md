@@ -49,37 +49,35 @@
 
 ## ⚡ THE ARSENAL
 
-<p align="center">
-  <!-- AI & Agent Frameworks (accented) -->
-  <img src="https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=FFD700&labelColor=1a1a1a" />
-  <img src="https://img.shields.io/badge/Gemini-000000?style=for-the-badge&labelColor=1a1a1a&logoColor=FFD700" />
-  <img src="https://img.shields.io/badge/HuggingFace-000000?style=for-the-badge&logo=huggingface&logoColor=FFD700&labelColor=1a1a1a" />
-  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&labelColor=1a1a1a&logoColor=FFD700" />
+## ⚡ THE ARSENAL
 
-  <!-- Core Language & Backend -->
+<p align="center">
+  <img src="https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=FFD700&labelColor=1a1a1a" />
+  <img src="https://img.shields.io/badge/Gemini-000000?style=for-the-badge&labelColor=1a1a1a&logoColor=FFD700&logo=googlebard" />
+  <img src="https://img.shields.io/badge/HuggingFace-000000?style=for-the-badge&logo=huggingface&logoColor=FFD700&labelColor=1a1a1a" />
+  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&labelColor=1a1a1a&logoColor=FFD700&logo=langchain" />
+
   <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=FFD700&labelColor=1a1a1a" />
+  <img src="https://img.shields.io/badge/Antigravity-000000?style=for-the-badge&logo=python&logoColor=FFD700&labelColor=1a1a1a" />
   <img src="https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=FFD700&labelColor=1a1a1a" />
   <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=FFD700&labelColor=1a1a1a" />
 
-  <!-- Frontend & Apps for AI UIs -->
   <img src="https://img.shields.io/badge/Streamlit-000000?style=for-the-badge&logo=streamlit&logoColor=FFD700&labelColor=1a1a1a" />
   <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=FFD700&labelColor=1a1a1a" />
   <img src="https://img.shields.io/badge/Tailwind-000000?style=for-the-badge&logo=tailwindcss&logoColor=FFD700&labelColor=1a1a1a" />
   <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=FFD700&labelColor=1a1a1a" />
   <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=FFD700&labelColor=1a1a1a" />
 
-  <!-- Data & Storage -->
   <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=FFD700&labelColor=1a1a1a" />
   <img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=FFD700&labelColor=1a1a1a" />
 
-  <!-- DevOps & Platform -->
+  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=FFD700&labelColor=1a1a1a" />
   <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=FFD700&labelColor=1a1a1a" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=FFD700&labelColor=1a1a1a" />
   <img src="https://img.shields.io/badge/Google%20Cloud-000000?style=for-the-badge&logo=googlecloud&logoColor=FFD700&labelColor=1a1a1a" />
   <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FFD700&labelColor=1a1a1a" />
   <img src="https://img.shields.io/badge/VS%20Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=FFD700&labelColor=1a1a1a" />
 
-  <!-- Additional Language -->
   <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=FFD700&labelColor=1a1a1a" />
 </p>
 
