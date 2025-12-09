@@ -72,7 +72,7 @@
   <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=FFD700&labelColor=1a1a1a" />
   <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=FFD700&labelColor=1a1a1a" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=FFD700&labelColor=1a1a1a" />
-  <img src="https://img.shields.io/badge/Google%20Cloud-000000?style=for-the-badge&logo=googlecloud&logoColor=FFD700&labelColor=1a1a1a" />
+  <img src="https://img.shields.io/badge/Google%20Cloud%20Platform-000000?style=for-the-badge&logo=googlecloud&logoColor=FFD700&labelColor=1a1a1a" />
   <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FFD700&labelColor=1a1a1a" />
   <img src="https://img.shields.io/badge/VS%20Code-000000?style=for-the-badge&logo=visual-studio-code&logoColor=FFD700&labelColor=1a1a1a" />
 
