@@ -51,12 +51,12 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=FFD700&labelColor=1a1a1a" />
-  <img src="https://img.shields.io/badge/Gemini-000000?style=for-the-badge&labelColor=1a1a1a&logoColor=FFD700&logo=googlebard" />
+  <img src="https://img.shields.io/badge/Gemini-000000?style=for-the-badge&logo=googlegemini&logoColor=FFD700&labelColor=1a1a1a" />
   <img src="https://img.shields.io/badge/HuggingFace-000000?style=for-the-badge&logo=huggingface&logoColor=FFD700&labelColor=1a1a1a" />
-  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&labelColor=1a1a1a&logoColor=FFD700&logo=langchain" />
+  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=FFD700&labelColor=1a1a1a" />
 
   <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=FFD700&labelColor=1a1a1a" />
-  <img src="https://img.shields.io/badge/Antigravity-000000?style=for-the-badge&logo=python&logoColor=FFD700&labelColor=1a1a1a" />
+  <img src="https://img.shields.io/badge/Antigravity-000000?style=for-the-badge&logo=google&logoColor=FFD700&labelColor=1a1a1a" />
   <img src="https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=FFD700&labelColor=1a1a1a" />
   <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=FFD700&labelColor=1a1a1a" />
 
