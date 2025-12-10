@@ -90,7 +90,7 @@
 class JeevanJoseph:
     def __init__(self):
         self.role = "Agentic Systems Architect"
-        self.company = "LUNALABS"
+        self.company = "RIVOCT"
         self.location = "India"
         
     def current_focus(self):
