@@ -1,5 +1,5 @@
 <div align="center"> 
-   
+    
   ![Batman Header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1a1a,100:000000&height=300&section=header&text=JEEVAN%20GEORGE%20JOSEPH&fontSize=50&fontColor=FFD700&animation=fadeIn&fontAlignY=38&desc=Agentic%20Systems%20Builder%20|%20Startup%20Founder&descAlignY=55&descSize=20)
  
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=cccccc&center=true&vCenter=true&width=600&lines=Building+AI+Agents+in+the+Shadows;Architecting+Multi-Agent+Systems;Founder+%40+LUNALABS" alt="Typing SVG" />
